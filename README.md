@@ -21,7 +21,7 @@ I'm currently working as an intern at <a href="https://algorizin.com/">Algorizin
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 <img src="https://img.shields.io/badge/-Python-red?style=flat-square&logo=Python"/>
-<img src="https://img.shields.io/badge/-rstudio-red?style=flat-square&logo=rstudio"/>
+<img src="https://img.shields.io/badge/-Rstudio-blue?style=flat-square&logo=rstudio"/>
 </p>  
 <!--
 **Rubayat26/rubayat26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,7 +4,7 @@
 
 
 <p align="center">
-I'm currently working as an intern at <a href="https://algorizin.com/">Algorizin<a> I finished my masters in Business Intelligence from the University of Akron. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
+I'm currently working as an intern at <a href="https://algorizin.com/">Algorizin<a>. I finished my masters in Business Intelligence from the <a href="https://www.uakron.edu/">University of Akron<a>. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
 </p> 
 
   

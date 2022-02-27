@@ -1,9 +1,10 @@
 ### 
+
 ![Hi I am Rubayat  A Web Developer in making](https://user-images.githubusercontent.com/91696266/155867616-c9d92ff3-1c6d-4b7c-bd76-108b72ca279f.png)
 
 
 <p align="center">
-  I'm a 3rd year student pursuing Master's in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
+  I'm currently working as an intern at <a href="https://algorizin.com/">Algorizin<a> I finished my masters in Business Intelligence from the University of Akron. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
 </p> 
 
 <!--

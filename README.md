@@ -31,7 +31,7 @@ I'm currently working as an intern at <a href="https://algorizin.com/">Algorizin
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
 <a href="mailto: rubayat10me@gmail.com">
- <img src="https://img.shields.io/badge/-Rubayat_Islam?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rubayat10me@gmail.com"/>
+ <img src="https://img.shields.io/badge/-Rubayat_Islam-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rubayat10me@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/rubayat-islam/">
  <img src="https://img.shields.io/badge/-Rubayat_Islam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubayat-islam/"/>

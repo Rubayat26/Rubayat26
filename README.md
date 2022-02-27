@@ -23,6 +23,20 @@ I'm currently working as an intern at <a href="https://algorizin.com/">Algorizin
 <img src="https://img.shields.io/badge/-Python-red?style=flat-square&logo=Python"/>
 <img src="https://img.shields.io/badge/-Rstudio-blue?style=flat-square&logo=rstudio"/>
 </p>  
+  
+  
+  
+<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+
+<p align="center">
+<!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
+<a href="mailto: rubayat10me@gmail.com">
+ <img src="https://img.shields.io/badge/-Rubayat_Islam?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rubayat10me@gmail.com"/>
+</a>
+<a href="https://www.linkedin.com/in/rubayat-islam/">
+ <img src="https://img.shields.io/badge/-Rubayat_Islam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubayat-islam/"/>
+</a>
+</p>  
 <!--
 **Rubayat26/rubayat26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

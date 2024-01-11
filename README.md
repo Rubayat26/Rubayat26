@@ -12,6 +12,7 @@ I am currently working as a software developer at <a href="https://www.haverly.c
 
 <p align="center">
 <img src="https://img.shields.io/badge/-C++-blue?style=flat-square&logo=C++"/>
+<img src="https://img.shields.io/badge/-C%23-green?style=flat-square&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=Node.js"/>
